@@ -1,4 +1,5 @@
-# AwfulScript
+AwfulScript
+===========
 
 Interprets a string of unicode as a base 2^32 number and spits out the base 10 representation.
 
